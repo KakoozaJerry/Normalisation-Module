@@ -5,8 +5,20 @@ This tool requires Python 3 (most preferably Python 3.6.1) and above to have bee
 ===============================================================================================
 ======================================================================================================
 HOW TO USE
-Run "pip install -r requirements. txt"
-Run "python interface.py" in terminal or command line prompt.
+
+Run 
+
+```bash
+    pip install -r requirements.txt
+```
+
+Run 
+
+```bash
+    python interface.py
+```
+
+in terminal or command line prompt.
 =======================================================================================================
 NORMALISING TEXT FILES
 Select text file to normalise by clicking the "SELECT TO NORMALISE" button at the top. 
