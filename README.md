@@ -49,9 +49,10 @@ Once the normalisation is finished, the tool will output the normalised text bel
 
 ## Contributors:
 
-OKELLO WAYNE STEVEN
+- OKELLO WAYNE STEVEN
 
-KAGUMIRE SULAIMAN
+- KAGUMIRE SULAIMAN
 
-ABRAHAM JERRY KAKOOZA
+- ABRAHAM JERRY KAKOOZA
+
 ---
