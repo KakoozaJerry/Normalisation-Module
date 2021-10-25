@@ -1,10 +1,11 @@
 ===============================================================================================
 PREREQUISITES
 ===============================================================================================
-This tool requires Python 3 (most preferably Python 3.6.1)  to have been installed already.
+This tool requires Python 3 (most preferably Python 3.6.1) and above to have been installed already.
 ===============================================================================================
 ======================================================================================================
 HOW TO USE
+Run "pip install -r requirements. txt"
 Run "python interface.py" in terminal or command line prompt.
 =======================================================================================================
 NORMALISING TEXT FILES
